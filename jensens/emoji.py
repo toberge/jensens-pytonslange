@@ -1,0 +1,7 @@
+done = "<:donn:836899970330001408>"
+nope = "<:bonk:804639608415191041>"
+bonk = "<:bonk:804639608415191041>"
+brumm = "<:brumm:806467395694231604>"
+gamerfargen = "<:gamerfargen:692675820812107806>"
+minecraft = "<:minecraft:825679622002704414>"
+equal = "<:round:707185921379795025>"
